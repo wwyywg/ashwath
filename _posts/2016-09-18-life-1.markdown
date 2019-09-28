@@ -5,25 +5,40 @@ description: orem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean com
 categories: life
 author: ashwathama
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+### Ubuntu 安装完成
 
-![]({{site.baseurl}}/images/lost-1.jpg)
+```
+1. [Ubuntu 系统系统下载](https://cn.ubuntu.com/dowmload)
+```
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+2. [制作 U 盘启动盘](https://jingyan.baidu.com/article/5225f26b0bb45fe6fa0908bc.html)
+3. [安装 Ubuntu 18.04 LTS 桌面和服务器版](https://baijiahao.baidu.com/s?id=1616490790245132419&wfr=spider&for=pc)
 
-Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.
+### typora 安装完成
 
-Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
+1. [typora 安装文档](https://www.typora.io/#linux)
+2. ![typora](https://wwyywg.github.io/ww-blog/images/log/2019-09-28/typora安装.png)
 
-![]({{site.baseurl}}/images/lost-8.jpg)
+[vscode 下载地址](https://code.visualstudio.com/Download)
 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.
+[Markdown 语法文档](http://www.markdown.cn/)
 
-Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
+[在线流程图](https://www.processon.com)
 
+[极简大纲工具-一键生成思维导图](https://mubu.com/)
 
-![]({{site.baseurl}}/images/lost-5.jpg)
+[Teambition 团队协作工具](https://www.teambition.com/)
 
-Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,
+[Git 教程](https://git-scm.com/en/v2)
 
-Image Credits - [Unsplash](https://unsplash.com)  
+### jekyll安装
+
+1. [jekyll 文档](http://jekyllcn.com/)
+
+2. > sudo apt-get install ruby	  # 默认系统会安装 ruby
+
+3. gem安装jekyll
+
+   ![gem安装jekyll](https://wwyywg.github.io/ww-blog/images/log/2019-09-28/jekyll安装运行.png)
+
+[jekyll 模板](http://jekyllthemes.org/)
