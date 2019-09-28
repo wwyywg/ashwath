@@ -1,6 +1,6 @@
 Bheema is a theme suitabel for image heavy journal kind of websites. 
 
-Demo: [https://wwyywg.github.io/ww-blog/](https://wwyywg.github.io/ww-blog/)
+Demo: [https://wwyywg.github.io/ashwath/](https://wwyywg.github.io/ashwath/)
 
 
 ## Installation
@@ -12,15 +12,15 @@ Demo: [https://wwyywg.github.io/ww-blog/](https://wwyywg.github.io/ww-blog/)
 ## Screenshots
 Default theme:
 
-![ashwath jekyll theme](https://wwyywg.github.io/ww-blog/images/Default.png)
+![ashwath jekyll theme](https://wwyywg.github.io/ashwath/images/Default.png)
 
 Color schemes (Full version)
 
-![ashwath jekyll theme](https://wwyywg.github.io/ww-blog/images/Purple.png)
+![ashwath jekyll theme](https://wwyywg.github.io/ashwath/images/Purple.png)
 
-![ashwath jekyll theme](https://wwyywg.github.io/ww-blog/images/Blood.png)
+![ashwath jekyll theme](https://wwyywg.github.io/ashwath/images/Blood.png)
 
-![ashwath jekyll theme](https://wwyywg.github.io/ww-blog/images/Mango.png)
+![ashwath jekyll theme](https://wwyywg.github.io/ashwath/images/Mango.png)
 
 
 For more themes visit - [https://jekyll-themes.com](https://jekyll-themes.com)
