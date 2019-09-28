@@ -10,9 +10,9 @@ title: Ashwathama
 description: > # this means to ignore newlines until "baseurl:"
  Ashwathama is a minimal website with an app like design. It also features card layouts for website elements.
 baseurl: "/ashwath" # the subpath of your site, e.g. /blog
-url: "http://webjeda.com/ashwath/"
+url: "https://wwyywg.github.io/"
 permalink: :title/
-full-url: "http://webjeda.com/ashwathama/" # the base hostname & protocol for your site
+full-url: "https://wwyywg.github.io/" # the base hostname & protocol for your site
 
 
 # CSS
@@ -48,7 +48,7 @@ markdown: kramdown
 include: [_pages] # Includes files inside _pages directory [Do not remove this]
 
 author:
-  name: Ashwathama
+  name: wangwu
   image: ashwat.jpg # The author image will be shown on the header. Place this image in /images/ folder.
   about: Ashwathama is a sage who wrote Mahabharatha. He is the son of Drona. He fought on the Kaurava side against the Pandavas. He put up a pretty good fight with mighty Bhima.
   twitter: webjeda  # https://twitter.com/ is automatically added
