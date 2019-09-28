@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "2019年09月28日"
+description: Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+date:   2016-09-11 10:50:00 +0530
+categories: code
+author: 王武
+---
+
+### Ubuntu 安装完成
+
+​    1. [Ubuntu 系统系统下载](https://cn.ubuntu.com/dowmload)
+
+2. [制作 U 盘启动盘](https://jingyan.baidu.com/article/5225f26b0bb45fe6fa0908bc.html)
+3. [安装 Ubuntu 18.04 LTS 桌面和服务器版](https://baijiahao.baidu.com/s?id=1616490790245132419&wfr=spider&for=pc)
+
+### typora 安装完成
+
+1. [typora 安装文档](https://www.typora.io/#linux)
+2. ![typora]({{site.baseurl}}/images/log/2019-09-28/typora安装.png)
+
+### [vscode 下载地址](https://code.visualstudio.com/Download)
+
+### [Markdown 语法文档](http://www.markdown.cn/)
+
+### [在线流程图](https://www.processon.com)
+
+1. [决策流程图.pdf]({{site.baseurl}}/images/log/2019-09-28/决策流程图.pdf)
+
+### 极简大纲工具-一键生成思维导图
+
+1. [极简大纲工具-一键生成思维导图](https://mubu.com/)
+
+2. [购物商城.pdf]({{site.baseurl}}/images/log/2019-09-28/购物商城.pdf)
+
+3. ![购物商城]({{site.baseurl}}/images/log/2019-09-28/购物商城.png)
+
+### [Teambition 团队协作工具](https://www.teambition.com/)
+
+1. [版本管理.csv]({{site.baseurl}}/images/log/2019-09-28/[版本管理]任务信息表_20190928.csv)
+
+### [Git 教程](https://git-scm.com/en/v2)
+
+1. > $ git init  #通过`git init`命令把这个目录变成Git可以管理的仓库
+   >
+   > $ git add README.me     #用命令`git add`告诉Git，把文件添加到仓库
+   >
+   > $ git commit -m "first commit"   #用命令`git commit`告诉Git，把文件提交到仓库
+   >
+   > $ git remote add origin git@github.com:wwyywg/xxxxx.git   #本地库关联远程库，远程库的名字就是`origin`
+   >
+   > $ git push -u origin master    #地库的所有内容推送到远程库上
+   >
+   > $ git status   #`git status`命令可以让我们时刻掌握仓库当前的状态
+   >
+   > $ git diff readme.txt   #git diff 比较文件
+   >
+   > $ git reset --hard HEAD^    #把当前版本`append GPL`回退到上一个版本 `add distributed`
+
+### jekyll安装
+
+1. [jekyll 文档](http://jekyllcn.com/)
+
+2. > sudo apt-get install ruby	  # 默认系统会安装 ruby
+
+3. gem安装jekyll
+
+   ![gem安装jekyll]({{site.baseurl}}/images/log/2019-09-28/jekyll安装运行.png)
