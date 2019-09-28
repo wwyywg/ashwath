@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "2019年09月28日"
-description: Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-date:   2016-09-11 10:50:00 +0530
+description: "Ubuntu系统安装及软件安装"
 categories: code
 author: 王武
 ---
